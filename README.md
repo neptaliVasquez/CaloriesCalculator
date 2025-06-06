@@ -1,0 +1,2 @@
+# CaloriesCalculator
+React +  Typescript project
